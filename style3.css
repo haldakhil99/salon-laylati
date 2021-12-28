@@ -1,0 +1,85 @@
+@charset "utf-8";
+#container {
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    text-align: center;
+    width: 1024px;
+}
+#hed {
+    width: 1024px;
+    height: 140px;
+    text-align: center;
+}
+#Nav {
+    width: 1024px;
+    height: 40px;
+    background-color: #D6A8C1;
+    border: thin solid hsla(0,0%,75%,1.00);
+}
+#Nav a {
+    margin-right: 70px;
+    margin-left: 70px;
+    color: #000000;
+    text-decoration: none;
+}
+#main {
+    width: 1024px;
+    min-height: 300px;
+}
+#main table  {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+
+
+}
+tr td img {
+    border: 7px dotted #D6A8C1;
+}
+tr td a {
+    color: #000000;
+    text-decoration: none;
+}
+
+
+#Nav ul {
+    padding-top: 9px;
+    margin-top: 4px;
+}
+#footer {
+    width: 1024px;
+    height: 55px;
+    background-color: hsla(0,0%,65%,0.73);
+}
+
+#footer a {
+    margin-right: 9px;
+    font-size: 18px;
+
+
+
+
+
+
+
+
+}
+#footer img {
+    width: 100px;
+    height: 42px;
+    margin-right: -79px;
+    margin-left: 620px;
+    margin-bottom: -32px;
+}
+
+
+
+body {
+    background-image: url(img/%D8%AE%D9%84%D9%81%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D9%8A%D9%83%D8%A81.jpg);
+    background-size: cover;
+    text-align: center;
+}
+tbody tr td {
+}
